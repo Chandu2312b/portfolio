@@ -21,11 +21,11 @@ const Projects = () => {
       image: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/bdcb7e107413647.5fa6736f912fd.png',
     },
     {
-      title: 'Chat App',
+      title: 'Convo App',
       description: 'Real-time chat application with modern UI and backend functionality using Socket.io.',
       tech: ['JavaScript', 'Socket.io', 'React'],
-      github: 'https://github.com/Chandu2312b/chat-app',
-      demo: 'https://chat-app-tau-five-68.vercel.app/',
+      github: 'https://github.com/Chandu2312b/Convo',
+      demo: 'https://convo-kappa-one.vercel.app',
       image: 'https://img.freepik.com/premium-vector/chat-app-smartphone-messenger-communication-application-ui-templates-with-sign-messaging-contacts-screens-collection-mobile-interfaces-with-buttons-vector-phones-set_176516-3076.jpg?w=2000',
     },
     {
