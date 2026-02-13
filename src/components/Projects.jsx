@@ -25,7 +25,7 @@ const Projects = () => {
       description: 'Real-time chat application with modern UI and backend functionality using Socket.io.',
       tech: ['JavaScript', 'Socket.io', 'React'],
       github: 'https://github.com/Chandu2312b/Convo',
-      demo: 'https://convo-kappa-one.vercel.app',
+      demo: 'https://convo-q85p.vercel.app',
       image: 'https://img.freepik.com/premium-vector/chat-app-smartphone-messenger-communication-application-ui-templates-with-sign-messaging-contacts-screens-collection-mobile-interfaces-with-buttons-vector-phones-set_176516-3076.jpg?w=2000',
     },
     {
